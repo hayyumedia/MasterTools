@@ -11,7 +11,5 @@ $git clone https://github.com/Systemvuln/MasterTools.git <br>
 cd MasterTools <br>
 sh new.sh
 
+![Screenshot_2019-08-24-19-54-27-713_com termux](https://user-images.githubusercontent.com/44978328/63637927-66a0ce80-c6ac-11e9-9cef-ee4392bb897e.png)
 
-![Screenshot_2019-08-23-01-38-08-285_com termux](https://user-images.githubusercontent.com/44978328/63540771-f298e600-c546-11e9-98c1-66ff6eba376f.png)
-
-![Screenshot_2019-08-23-01-38-35-779_com termux](https://user-images.githubusercontent.com/44978328/63540848-18be8600-c547-11e9-9dd0-636a2657a9b1.png)
