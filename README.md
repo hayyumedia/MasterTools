@@ -7,7 +7,7 @@ $pkg install git <br>
 $pkg install php <br>
 $pkg install python2 <br>
 $pkg install curl <br>
-$git clone https://github.com/Systemvuln/MasterTools.git <br>
+$git clone https://github.com/CyberNoob1/MasterTools.git <br>
 cd MasterTools <br>
 sh new.sh
 
